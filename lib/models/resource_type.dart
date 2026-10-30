@@ -1,0 +1,21 @@
+
+enum ResourceType {
+  previewIpad,
+  previewIphone,
+  bgIphone,
+  bgIpad,
+  lsIphone,
+  lsIpad,
+  icons,
+  icon,
+  profile,
+  iconLog,
+  iconsPreview,
+  previewWidget,
+  mediumWidget1,
+  largeWidget1,
+  mediumWidget2,
+  largeWidget2,
+  mediumWidget3,
+  largeWidget3,
+}
